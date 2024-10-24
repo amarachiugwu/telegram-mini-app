@@ -204,7 +204,7 @@ export default function Home() {
 
           <div className="px-4 mt-4 flex justify-center">
             <div
-              className="64 h-64 p-4 rounded-full circle-outer"
+              className="w-64 h-64 p-4 rounded-full circle-outer"
               onClick={handleCardClick}
             >
               <div className="w-full h-full rounded-full circle-inner">

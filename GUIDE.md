@@ -519,6 +519,7 @@ transform: translateY(-50px);
 paste before div closing tag
 
 {clicks.map((click) => (
+
 <div
 key={click.id}
 className="absolute text-5xl font-bold opacity-0 text-white pointer-events-none"
@@ -576,3 +577,34 @@ setPoints((prevPoints) => prevPoints + pointsPerSecond);
 }, 1000);
 return () => clearInterval(interval);
 }, [profitPerHour]);
+
+// run in terminal
+npm run build
+
+// deploy to vercel
+
+// deploy to telegram
+
+/newbot
+
+desc: assetchainLiveCall_bot
+
+username: assetchainLiveCall_bot
+
+save the next response
+
+/newapp
+
+select assetchainLiveCall_bot
+
+title : Assetchain Live Call Bot
+
+desc : Assetchain Live Call Bot
+
+upload image from images folder
+
+skip gif step
+
+paste link
+
+short name assetchainLiveCall_bot
