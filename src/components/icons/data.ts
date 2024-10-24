@@ -1,6 +1,0 @@
-export {default as Coins} from 'public/icons/coins.svg'
-export {default as Friends} from 'public/icons/friends.svg'
-export {default as Hamster} from 'public/icons/hamster.svg'
-export {default as Info} from 'public/icons/info.svg'
-export {default as Mine} from 'public/icons/mine.svg'
-export {default as Settings} from 'public/icons/settings.svg'
