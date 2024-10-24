@@ -19,11 +19,11 @@ const DashboardFooter = () => {
             key={item.href}
             className={`text-center text-[#85827d] w-1/5 ${
               isActivePath(item.href, pathname as string)
-                ? "bg-[#1c1f24] m-1 p-2 rounded-2xl"
+                ? "bg-[#1c1f24] text-white m-1 p-2 rounded-2xl"
                 : ""
             }`}
           >
-            <div className="w-8 h-8 mx-auto"> {item.icon} </div>
+            <div className="w-6 h-6 mx-auto"> {item.icon} </div>
 
             <p className="mt-1">{item.name}</p>
           </Link>
