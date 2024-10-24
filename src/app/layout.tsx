@@ -29,9 +29,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${inter.variable} ${manrope.variable} antialiased bg-black flex justify-center`}
-      >
+      <body className={`${inter.variable} ${manrope.variable} `}>
         <DashboardLayoutShell>{children}</DashboardLayoutShell>
       </body>
     </html>
