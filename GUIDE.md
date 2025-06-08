@@ -205,7 +205,7 @@ className={`${inter.variable} ${manrope.variable}
             <Hamster size={24} className="text-[#d4d4d4]" />
           </div>
           <div>
-            <p className="text-sm">Nikandr (CEO)</p>
+            <p className="text-sm">Amarachi (CEO)</p>
           </div>
         </div>
 
